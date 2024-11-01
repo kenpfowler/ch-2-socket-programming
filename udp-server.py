@@ -3,7 +3,7 @@ from socket import *
 # UDP SERVER
 
 # specify port number that the server will listen to
-server_port = 12000
+server_port = 8080
 
 # instantiate the socket with:
 # AF_INET = Address Family IPv4
